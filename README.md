@@ -36,6 +36,14 @@ src/
 ├── ui.rs           # Обновления пользовательского интерфейса
 ├── chat.rs         # Основная логика чата
 └── bindings.rs     # JavaScript биндинги
+
+assets/
+├── styles.css      # Стили интерфейса
+├── app.js          # Главный JavaScript модуль
+└── favicon.svg     # Иконка сайта
+
+index.html          # Основной HTML файл
+pkg/                # Сгенерированные WASM файлы
 ```
 
 ## 🚀 Установка и запуск
